@@ -1,1 +1,1 @@
-include ':app', ':multipermissions'
+include ':multipermissions-sample', ':multipermissions-lib'
